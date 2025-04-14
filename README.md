@@ -31,4 +31,8 @@ The search function is a simple filter that checks if the value of the input exi
 
 ## Structure
 
-Structurally I have split up the project into folders of util, types, and components. The util folder contains the mocked games data, as well as the helper function to get the correct icon for the different platforms. The components folder contains the different components used for the assignment. The types folder contains the types.ts file where I define all types I use.
+Structurally I have split up the project into folders of util, types, and components.
+
+- The util folder contains the mocked games data, as well as the helper function to get the correct icon for the different platforms.
+- The components folder contains the different components used for the assignment.
+- The types folder contains the types.ts file where I define all types I use.
