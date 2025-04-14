@@ -29,10 +29,19 @@ Design wise I wanted to make the card component distinct with a blue border. I a
 
 The search function is a simple filter that checks if the value of the input exists in the title of any of the games.
 
-## Structure
+### Structure
 
 Structurally I have split up the project into folders of util, types, and components.
 
 - The util folder contains the mocked games data, as well as the helper function to get the correct icon for the different platforms.
 - The components folder contains the different components used for the assignment.
 - The types folder contains the types.ts file where I define all types I use.
+
+### Technologies used
+
+For this assignment I have used:
+
+- NextJs
+- TypeScript
+- Tailwind CSS
+- motion (previosuly framer-motion)
